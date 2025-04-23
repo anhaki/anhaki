@@ -1,7 +1,3 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhaki&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=anhaki&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=anhaki&theme=radical)
+![anhaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhaki&theme=merko&show_icons=true&hide_border=false&layout=compact)
