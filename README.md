@@ -34,9 +34,10 @@
 
 ## 📈 GitHub Stats
 
-<div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhaki&layout=compact&theme=tokyonight)
+<div align="center">
+  
+<img style = "display:inline-block; height:180px" src="https://github-readme-streak-stats.herokuapp.com/?user=anhaki&theme=tokyonight" alt="mystreak"/>
+<img style = "display:inline-block; height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhaki&layout=compact&theme=tokyonight" alt="topLang"/>
 
 </div>
 
@@ -47,6 +48,6 @@
 <div>
 
 <a href="mailto:m.anugrahhakiki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourlinkedinusername/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anhaki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
