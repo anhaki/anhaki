@@ -1,4 +1,8 @@
 # Hi, I'm Muhammad Anugrah Hakiki! 👋
+<div align="center">
+  <img style = "display:inline-block; height:180px" src="https://github-readme-streak-stats.herokuapp.com?user=anhaki&theme=highcontrast&hide_border=true&background=0D1117" alt="mystreak"/>
+  <img style = "display:inline-block; height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhaki&layout=compact&theme=transparent&hide_border=true&background=0D1117" alt="topLang"/>
+</div>
 
 ## 🚀 Tech Stack
 
@@ -27,17 +31,6 @@
 
 <img src="https://img.shields.io/badge/BNSP-Web%20Developer-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dicoding-Android%20Expert-blue?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img style = "display:inline-block; height:180px" src="https://github-readme-streak-stats.herokuapp.com/?user=anhaki&theme=tokyonight" alt="mystreak"/>
-<img style = "display:inline-block; height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhaki&layout=compact&theme=tokyonight" alt="topLang"/>
 
 </div>
 
