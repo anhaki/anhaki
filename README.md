@@ -25,17 +25,6 @@
 
 ---
 
-## 🏆 Certifications
-
-<div>
-
-<img src="https://img.shields.io/badge/BNSP-Web%20Developer-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dicoding-Android%20Expert-blue?style=for-the-badge"/>
-
-</div>
-
----
-
 ## 📫 Connect with me
 
 <div>
